@@ -1,22 +1,85 @@
-👋 Hey there, I'm Suhani Arya
+# Suhani Arya
 
-🎨 Creative Technologist | Game Developer | AI Innovator (ze/zer)
+Student Developer | Founder | AI & Game Dev Explorer  
 
-I build interactive, meaningful digital experiences that blend creativity, technology, and empathy. From playful games to practical AI tools, I love designing things that make people feel and grow.
+I build things at the intersection of technology and meaning—tools and experiences that help people grow, reflect, and connect.
 
-🧠 What I Do
+---
 
-💻 Game Development — Creating immersive 3D experiences in Unity that teach, challenge, or simply make you smile. 🤖 AI & Code Tools — Building tools that push tech toward accessibility, creativity, and freedom. 📱 Apps & Startups — Designing apps that help people connect, learn, and improve daily. 🧩 Human-Tech Philosophy — Exploring how technology can stay human-centered and emotionally aware.
+##  About Me
 
-🛠️ Tech & Tools
+- High school developer passionate about meaningful tech  
+- Focused on AI, game development, and human-centered design  
+- Exploring the connection between philosophy and technology  
+- Building projects that go beyond functionality and create impact  
 
-Languages: C#, python, frontend web dev, Xamarin, Frameworks & Engines: Unity, React, Next.js Databases: Supabase, Firebase AI/ML: OpenAI API, Hugging Face, LLMs Other: Vercel, Figma, Git
+---
 
-🧩 Philosophy
+##  What I Do
 
-“Technology should make us more human, not less.”
+- Game Development  
+  - Creating interactive Unity experiences focused on behavior and learning  
 
-I build not just for efficiency — but for emotion, empathy, and experience.
+-  AI Development  
+  - Working with AI models, prompt engineering, and client-side experiments  
 
+-  App Development  
+  - Building mobile and web apps with real-world use cases  
 
-<img width="500" height="500" alt="GDI Hackathon Download Today Badge" src="https://github.com/user-attachments/assets/efb7491e-7d7a-492d-9504-37876f55551a" />
+-  Startup Work  
+  - Founder of **Questonin**  
+  - Building experimental platforms in AI, education, and digital interaction  
+
+---
+
+##  Projects
+
+- 🔹 **Tranzoid — AI Codebase Translator**  
+  - Translates complete codebases between programming languages  
+  - Focused on simplifying language migration  
+
+- 🔹 **Tether — Relationship Tracker**  
+  - Tracks relationships and meaningful interactions  
+  - AI-powered nudges for reconnecting  
+
+- 🔹 **Fionum — Mental Health Platform**  
+  - Safe digital space for teens  
+  - Focus on privacy, accessibility, and emotional safety  
+
+- 🔹 **Atomican — Virtual Chemistry Lab**  
+  - Virtual lab for exploring chemical experiments safely  
+  - Designed for conceptual understanding without physical risk  
+
+- 🔹 **AI School — Learning Concept**  
+  - Exploring AI-driven personalized education systems  
+
+- 🔹 **Unity Game Projects**  
+  - Multiple games focused on gameplay mechanics and real-world skills  
+
+---
+
+##  Skills
+
+- **Languages:** Python, C#  
+- **Development:** Unity, Mobile Apps, Backend & API Integration  
+- **Tools:** Git, GitHub, Supabase, OpenAI API, Linux  
+- **AI:** Prompt Engineering, Model Integration, Client-Side AI  
+
+---
+
+##  Current Focus
+
+- Blending philosophy with technology  
+- Designing gamified learning systems  
+- Exploring human–AI interaction  
+
+---
+
+##  Connect
+
+- GitHub: https://github.com/suhaniarya-eterna  
+- LinkedIn: https://www.linkedin.com/in/suhani0364  
+- Startup: https://questonin.com  
+
+---
+And somewhere between code and curiosity, I’m figuring out what technology should feel like.
