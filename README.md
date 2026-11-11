@@ -1,6 +1,6 @@
 # Suhani Arya
 
-Student Developer | Founder | AI & Game Dev Explorer  
+CEO | Founder | AI & Game Dev Explorer  
 
 I build things at the intersection of technology and meaning—tools and experiences that help people grow, reflect, and connect.
 
@@ -8,7 +8,7 @@ I build things at the intersection of technology and meaning—tools and experie
 
 ##  About Me
 
-- High school developer passionate about meaningful tech  
+-- provide LMS softwares to school
 - Focused on AI, game development, and human-centered design  
 - Exploring the connection between philosophy and technology  
 - Building projects that go beyond functionality and create impact  
@@ -54,16 +54,17 @@ I build things at the intersection of technology and meaning—tools and experie
   - Exploring AI-driven personalized education systems  
 
 - 🔹 **Unity Game Projects**  
-  - Multiple games focused on gameplay mechanics and real-world skills  
-
+  - Multiple games focused on gameplay mechanics and real-world skills
+    
+and many more tough to keep a track
 ---
 
 ##  Skills
 
-- **Languages:** Python, C#  
+- **Languages:** Python, C#, C++
 - **Development:** Unity, Mobile Apps, Backend & API Integration  
-- **Tools:** Git, GitHub, Supabase, OpenAI API, Linux  
-- **AI:** Prompt Engineering, Model Integration, Client-Side AI  
+- **Tools:** Git, GitHub, Supabase, Neon, SQL , REST API, Linux  
+- **AI:** Prompt Engineering, Model Integration, Client-Side AI , API
 
 ---
 
