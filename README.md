@@ -1,86 +1,116 @@
 # Suhani Arya
 
-CEO | Founder | AI & Game Dev Explorer  
+**Founder & CEO | AI Development | Game Development | Software Engineering**
 
-I build things at the intersection of technology and meaning—tools and experiences that help people grow, reflect, and connect.
+I build software, experiment with AI, and work on products that solve real problems. My interests span artificial intelligence, game development, education technology, and human-computer interaction.
 
----
-
-##  About Me
-
--- provide LMS softwares to school
-- Focused on AI, game development, and human-centered design  
-- Exploring the connection between philosophy and technology  
-- Building projects that go beyond functionality and create impact  
+Currently building **Questonin**, an education technology startup focused on bringing better learning experiences and practical tools to schools.
 
 ---
 
-##  What I Do
+## About Me
 
-- Game Development  
-  - Creating interactive Unity experiences focused on behavior and learning  
+I'm interested in understanding how technology works and, more importantly, what we can do with it.
 
--  AI Development  
-  - Working with AI models, prompt engineering, and client-side experiments  
+My work involves:
 
--  App Development  
-  - Building mobile and web apps with real-world use cases  
+- Developing AI-powered applications and experimenting with local and API-based models.
+- Building interactive experiences and simulations using Unity.
+- Developing web and mobile applications.
+- Exploring the intersection of technology, education, and human behavior.
+- Building products from early concepts to working prototypes.
 
--  Startup Work  
-  - Founder of **Questonin**  
-  - Building experimental platforms in AI, education, and digital interaction  
+I enjoy working across disciplines and learning by building.
 
----
+## What I Work On
 
-##  Projects
+**AI & Machine Learning**
 
-- 🔹 **Tranzoid — AI Codebase Translator**  
-  - Translates complete codebases between programming languages  
-  - Focused on simplifying language migration  
+- Model integration and experimentation
+- Local inference and client-side AI
+- Prompt engineering and AI-powered applications
 
-- 🔹 **Tether — Relationship Tracker**  
-  - Tracks relationships and meaningful interactions  
-  - AI-powered nudges for reconnecting  
+**Game Development**
 
-- 🔹 **Fionum — Mental Health Platform**  
-  - Safe digital space for teens  
-  - Focus on privacy, accessibility, and emotional safety  
+- Unity development and interactive environments
+- Gameplay systems and mechanics
+- Educational and simulation-based experiences
 
-- 🔹 **Atomican — Virtual Chemistry Lab**  
-  - Virtual lab for exploring chemical experiments safely  
-  - Designed for conceptual understanding without physical risk  
+**Software Development**
 
-- 🔹 **AI School — Learning Concept**  
-  - Exploring AI-driven personalized education systems  
+- Web and mobile application development
+- Backend systems, APIs, and database integration
+- Prototyping and product development
 
-- 🔹 **Unity Game Projects**  
-  - Multiple games focused on gameplay mechanics and real-world skills
-    
-and many more tough to keep a track
----
+**Entrepreneurship**
 
-##  Skills
-
-- **Languages:** Python, C#, C++
-- **Development:** Unity, Mobile Apps, Backend & API Integration  
-- **Tools:** Git, GitHub, Supabase, Neon, SQL , REST API, Linux  
-- **AI:** Prompt Engineering, Model Integration, Client-Side AI , API
+- Founder and CEO of [Questonin](https://questonin.com)
+- Building education technology and learning-management solutions for schools
+- Product development, research, and early-stage experimentation
 
 ---
 
-##  Current Focus
+## Projects
 
-- Blending philosophy with technology  
-- Designing gamified learning systems  
-- Exploring human–AI interaction  
+A selection of projects I've worked on or explored:
+
+### Tranzoid | AI Codebase Translator
+
+An AI-powered tool designed to translate entire codebases between programming languages, making software migration easier.
+
+### Tether | Relationship Tracker
+
+An application focused on maintaining meaningful connections through interaction tracking and AI-assisted reminders.
+
+### Fionum | Teen Mental Wellness Platform
+
+A digital platform concept centered around privacy, accessibility, and creating safer online spaces for teenagers.
+
+### Atomican | Virtual Chemistry Lab
+
+An interactive virtual laboratory for exploring chemistry concepts and experiments in a digital environment.
+
+### AI School | Personalized Learning
+
+Exploring AI-driven education systems that adapt learning experiences to individual students.
+
+### Unity Projects
+
+A collection of game development experiments, interactive systems, and projects exploring gameplay mechanics and real-world applications.
+
+*There are several more experiments and smaller projects that haven't made it onto this list yet.*
 
 ---
 
-##  Connect
+## Technical Skills
 
-- GitHub: https://github.com/suhaniarya-eterna  
-- LinkedIn: https://www.linkedin.com/in/suhani0364  
-- Startup: https://questonin.com  
+| Category            | Technologies                                                    |
+| ------------------- | --------------------------------------------------------------- |
+| Languages           | Python, C#, C++                                                 |
+| Game Development    | Unity                                                           |
+| Backend & Databases | SQL, Supabase, Neon                                             |
+| Development         | Web & Mobile Apps, REST APIs                                    |
+| Tools               | Git, GitHub, Linux                                              |
+| AI                  | Model Integration, Local Inference, Prompt Engineering, AI APIs |
 
 ---
-And somewhere between code and curiosity, I’m figuring out what technology should feel like.
+
+## Current Interests
+
+- Local AI models and inference
+- AI applications and human-computer interaction
+- Robotics, simulations, and digital environments
+- Gamified and personalized education
+- The relationship between philosophy, technology, and human behavior
+
+---
+
+## Find Me Elsewhere
+
+- **GitHub:** [suhaniarya-eterna](https://github.com/suhaniarya-eterna)
+- **LinkedIn:** www\.linkedin.com/in/suhani0364
+- **Questonin:** [questonin.com](https://questonin.com)
+
+---
+
+*Always building something, breaking something, or figuring out how to build it better.*
